@@ -1,0 +1,14 @@
+[
+    {
+        "product_id": "P1",
+        "name": "Pen",
+        "price": 100,
+        "stock": 5
+    },
+    {
+        "product_id": "P2",
+        "name": "Notebook",
+        "price": 200,
+        "stock": 10
+    }
+]
